@@ -10,3 +10,9 @@ checklist
 7. Shadow DOM
 8. Web Components
 9. Grid Layout
+10. 
+
+
+Improve query filter UI on admin/content
+====
+https://www.drupal.org/node/355820
