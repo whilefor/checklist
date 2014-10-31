@@ -16,3 +16,4 @@ checklist
 Improve query filter UI on admin/content
 ====
 https://www.drupal.org/node/355820
+http://www.digitaria.com/news/blogs/multi-dimensional-filtering-google-analytics-ui
