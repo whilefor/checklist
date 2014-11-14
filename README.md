@@ -10,7 +10,7 @@ checklist
 7. Shadow DOM
 8. Web Components
 9. Grid Layout
-10. forever(node.js)
+10. forever pm2(node.js process management)
 
 
 Improve query filter UI on admin/content
