@@ -9,6 +9,7 @@ Checklist
 ####Javascript
 - ECMAScript6 Promise /http://web.jobbole.com/82226/
 - Service workers
+- ECMAScript6 (http://es6.ruanyifeng.com/)
 
 ####UI
 - Google Material Design
