@@ -6,6 +6,10 @@ Checklist
 - Polymer(www.polymer-project.org) developer bolg：http://www.2ality.com/
 - tween.js(Javascript tweening engine)
 
+####Javascript
+- ECMAScript6 Promise /http://web.jobbole.com/82226/
+- Service workers
+
 ####UI
 - Google Material Design
 - Material Design for AngularJS
