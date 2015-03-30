@@ -39,3 +39,4 @@ Checklist
 
 ####GitHub
 - http://git.oschina.net/progit/2-Git-%E5%9F%BA%E7%A1%80.html
+- http://git-scm.com/book/zh/v1/
