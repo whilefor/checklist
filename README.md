@@ -5,9 +5,11 @@ Checklist
 - Angular.js(1.3+,2.0)/React.js/Polymer/Web Components
 - Polymer(www.polymer-project.org) developer bolg：http://www.2ality.com/
 - tween.js(Javascript tweening engine)
+- AMD、CMD、UMD 
 
 ####Javascript
 - ECMAScript6 Promise /http://web.jobbole.com/82226/
+- Fetch API
 - Service workers
 - ECMAScript6 (http://es6.ruanyifeng.com/)
 
