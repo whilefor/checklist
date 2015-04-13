@@ -12,7 +12,7 @@ Checklist
 - Fetch API
 - Service workers
 - ECMAScript6 (http://es6.ruanyifeng.com/)
-- 
+
 ####CSS
 - Media Queries
 - Responsive Web design
