@@ -12,6 +12,7 @@ Checklist
 - Fetch API
 - Service workers
 - ECMAScript6 (http://es6.ruanyifeng.com/)
+- html2canvas(JavaScript webpage renderer)
 
 ####CSS
 - Media Queries
