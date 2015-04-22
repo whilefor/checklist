@@ -13,6 +13,7 @@ Checklist
 - Service workers
 - ECMAScript6 (http://es6.ruanyifeng.com/)
 - html2canvas(JavaScript webpage renderer)
+- marked(A markdown parser and compiler. Built for speed.)
 
 ####CSS
 - Media Queries
