@@ -18,6 +18,7 @@ Checklist
 ####CSS
 - Media Queries
 - Responsive Web design
+- BFC
 
 ####UI
 - Google Material Design
