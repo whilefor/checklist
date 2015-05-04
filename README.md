@@ -31,6 +31,7 @@ Checklist
 - Express.js
 - io.js(another node.js)
 - forever pm2(node.js process management)
+- http://electron.atom.io
 
 ####Mongodb
 - MongoDB Management Service (MMS)
