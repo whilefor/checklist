@@ -10,7 +10,7 @@ Checklist
 ####Javascript
 - ECMAScript6 Promise /http://web.jobbole.com/82226/
 - Fetch API
-- Service workers
+- Service workers/web workers
 - ECMAScript6 (http://es6.ruanyifeng.com/)
 - html2canvas(JavaScript webpage renderer)
 - marked(A markdown parser and compiler. Built for speed.)
