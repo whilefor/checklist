@@ -5,7 +5,8 @@ Checklist
 - Angular.js(1.3+,2.0)/React.js/Polymer/Web Components/Zepto
 - Polymer(www.polymer-project.org) developer bolg：http://www.2ality.com/
 - tween.js(Javascript tweening engine)
-- AMD、CMD、UMD 
+- AMD、CMD、UMD
+- collection.js
 
 ####Javascript
 - ECMAScript6 Promise /http://web.jobbole.com/82226/
