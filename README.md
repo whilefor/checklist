@@ -7,6 +7,7 @@ Checklist
 - tween.js(Javascript tweening engine)
 - AMD、CMD、UMD
 - collector.js
+- way.js
 
 ####Javascript
 - ECMAScript6 Promise /http://web.jobbole.com/82226/
