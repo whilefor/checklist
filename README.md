@@ -46,6 +46,7 @@ Checklist
 ####Posts
 - http://rapheal.sinaapp.com/2014/07/11/webdev-protocol/
 - http://rapheal.sinaapp.com/2014/10/24/webdev-network-model/
+- http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look
 
 ####GitHub
 - http://git.oschina.net/progit/2-Git-%E5%9F%BA%E7%A1%80.html
