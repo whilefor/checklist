@@ -2,7 +2,7 @@ Checklist
 =========
 
 ####Javascript Framework
-- Angular.js(1.3+,2.0)/React.js/Polymer/Web Components/Zepto
+- Angular.js(1.3+,2.0)/React.js/Polymer/Web Components/Zepto/VUE
 - Polymer(www.polymer-project.org) developer bolg：http://www.2ality.com/
 - tween.js(Javascript tweening engine)
 - AMD、CMD、UMD
