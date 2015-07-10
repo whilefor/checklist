@@ -5,7 +5,7 @@ Checklist
 - Angular.js(1.3+,2.0)/React.js/Polymer/Web Components/Zepto/VUE
 - Polymer(www.polymer-project.org) developer bolg：http://www.2ality.com/
 - tween.js(Javascript tweening engine)
-- AMD、CMD、UMD
+- AMD、CMD、UMD、webpack
 - collector.js
 - way.js
 
@@ -48,6 +48,7 @@ Checklist
 - http://rapheal.sinaapp.com/2014/10/24/webdev-network-model/
 - http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look
 - http://www.alloyteam.com/2012/08/lightweight-solution-for-an-iframe-cross-domain-communication/
+- http://segmentfault.com/a/1190000002552008
 
 ####GitHub
 - http://git.oschina.net/progit/2-Git-%E5%9F%BA%E7%A1%80.html
