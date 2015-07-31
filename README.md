@@ -7,6 +7,7 @@ Checklist
 - tween.js(Javascript tweening engine) OAuth2.0
 - AMD、CMD、UMD、webpack
 - collector.js
+- JSON Web Token (JWT)
 - way.js
 
 ####Javascript
