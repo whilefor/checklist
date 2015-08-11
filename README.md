@@ -51,6 +51,7 @@ Checklist
 - http://www.alloyteam.com/2012/08/lightweight-solution-for-an-iframe-cross-domain-communication/
 - http://segmentfault.com/a/1190000002552008
 - http://fex.baidu.com/blog/2015/07/we-have-a-problem-with-promises/
+- http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 
 ####GitHub
 - http://git.oschina.net/progit/2-Git-%E5%9F%BA%E7%A1%80.html
