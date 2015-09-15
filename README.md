@@ -9,6 +9,7 @@ Checklist
 - collector.js
 - JSON Web Token (JWT)
 - way.js
+- HTTP Client Hints
 
 ####Javascript
 - ECMAScript6 Promise /http://web.jobbole.com/82226/
