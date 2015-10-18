@@ -18,6 +18,9 @@ Checklist
 - ECMAScript6 (http://es6.ruanyifeng.com/)
 - html2canvas(JavaScript webpage renderer)
 - marked(A markdown parser and compiler. Built for speed.)
+- JS AOP
+- GraghQL Relay
+- Imutable.js
 
 ####CSS
 - Media Queries
@@ -36,6 +39,7 @@ Checklist
 - io.js(another node.js)
 - forever pm2(node.js process management)
 - http://electron.atom.io
+- Travis CI
 
 ####Mongodb
 - MongoDB Management Service (MMS)
