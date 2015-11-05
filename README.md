@@ -9,7 +9,7 @@ Checklist
 - collector.js
 - JSON Web Token (JWT)
 - way.js
-- HTTP Client Hints
+- PhantomJS
 
 ####Javascript
 - ECMAScript6 Promise /http://web.jobbole.com/82226/
@@ -37,7 +37,7 @@ Checklist
 ####Node.js
 - Express.js
 - io.js(another node.js)
-- forever pm2(node.js process management)
+- pm2(node.js process management)
 - http://electron.atom.io
 - Travis CI
 
