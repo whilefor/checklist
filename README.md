@@ -2,22 +2,22 @@ Checklist
 =========
 
 ####GitHub Blog
-- https://github.com/kuitos/kuitos.github.io/issues（？？）
-- https://github.com/xufei/blog/issues（徐飞）
-- https://github.com/fouber/blog/issues（张云龙）
-- https://github.com/tmallfe/tmallfe.github.io/issues（天猫）
-- https://github.com/amfe/article（阿里无线前端）
-- https://github.com/hax/hax.github.com/issues(贺老)
-- https://github.com/atian25/blog（天猪部落阁）
-- https://github.com/gf-rd/blog/issues（广发证券技术前端）
-- https://github.com/zenany/weekly（weekly文章汇总）
+- https://github.com/kuitos/kuitos.github.io/issues   （？？）
+- https://github.com/xufei/blog/issues   （徐飞）
+- https://github.com/fouber/blog/issues   （张云龙）
+- https://github.com/tmallfe/tmallfe.github.io/issues   （天猫）
+- https://github.com/amfe/article   （阿里无线前端）
+- https://github.com/hax/hax.github.com/issues   (贺老)
+- https://github.com/atian25/blog   （天猪部落阁）
+- https://github.com/gf-rd/blog/issues   （广发证券技术前端）
+- https://github.com/zenany/weekly   （weekly文章汇总）
 - slow update below
-- https://github.com/mominger/blog（？？）
-- https://github.com/jayli/jayli.github.com/issues（拔赤）
-- https://github.com/lifesinger/blog/issues（玉伯）
-- https://github.com/ant-ued/blog（蚂蚁金服UED）
-- https://github.com/baixing/FE-Blog/issues（百姓网前端）
-- https://github.com/yisibl/blog/issues（一丝）
+- https://github.com/mominger/blog   （？？）
+- https://github.com/jayli/jayli.github.com/issues   （拔赤）
+- https://github.com/lifesinger/blog/issues   （玉伯）
+- https://github.com/ant-ued/blog   （蚂蚁金服UED）
+- https://github.com/baixing/FE-Blog/issues   （百姓网前端）
+- https://github.com/yisibl/blog/issues   （一丝）
 
 ####Javascript Framework
 - Angular.js(1.3+,2.0)/React.js/Polymer/Web Components/Zepto/VUE
