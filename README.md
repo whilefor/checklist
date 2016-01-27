@@ -40,6 +40,7 @@ Checklist
 - JS AOP
 - GraghQL Relay
 - Imutable.js
+- ServiceWorker
 
 ####CSS
 - Media Queries
