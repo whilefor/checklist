@@ -50,6 +50,7 @@ Checklist
 
 ####UI
 - Google Material Design(https://github.com/google/material-design-lite)
+- Ant Design
 - Material Design for AngularJS
 - Bootstrap
 - Grid Layout
